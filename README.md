@@ -87,6 +87,18 @@
 
 ---
 
+#### 📕 4주차 — 사전학습 언어모델과 트랜스포머
+
+> KcBERT (`beomi/kcbert-base`) MLM 사전학습 모델 분석, `BertConfig` · `BertModel` 구조 (768차원 · 12 레이어 · 12 헤드 · ~110M params),  
+> BERT 임베딩 (`last_hidden_state` · `pooler_output` · `hidden_states` · `attentions`),  
+> Self-Attention Q/K/V 가중합 직접 계산과 시각화, 동음이의어 (배·눈) 문맥 의존 임베딩 분석
+
+| GitHub → Colab | GitHub 파일 |
+|:--------------:|:-----------:|
+| <a href="https://colab.research.google.com/github/aiiplab/luna-nlp/blob/main/notebooks/Lecture04_Lab_Student.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | <a href="notebooks/Lecture04_Lab_Student.ipynb" target="_blank">📄 Lecture04\_Lab\_Student.ipynb</a> |
+
+---
+
 ### 📅 전체 강의 일정
 
 | 주차 | 주제 | 실습 |
@@ -158,7 +170,8 @@ luna-nlp/
 ├── 📂 notebooks/
 │   ├── Lecture02_Lab_Student.ipynb           # 2주 — NLP 개요 · 전이학습 (학생용)
 │   ├── Lecture03_Lab_Student.ipynb           # 3주 Part 1 — BPE 토큰화 (학생용)
-│   └── Lecture03P2_Lab_Student.ipynb         # 3주 Part 2 — WordPiece & 비교 (학생용)
+│   ├── Lecture03P2_Lab_Student.ipynb         # 3주 Part 2 — WordPiece & 비교 (학생용)
+│   └── Lecture04_Lab_Student.ipynb           # 4주 — 사전학습 LM · 트랜스포머 (학생용)
 │
 ├── assets/
 │   └── textbook.png                          # 교재 이미지
