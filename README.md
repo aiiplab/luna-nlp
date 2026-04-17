@@ -174,7 +174,7 @@ luna-nlp/
 <tr>
 <td width="130">
 <a href="https://www.yes24.com/Product/Goods/105218899" target="_blank">
-<img src="assets/textbook.png" alt="Do it! BERT와 GPT로 배우는 자연어 처리" width="120"/>
+<img src="https://raw.githubusercontent.com/aiiplab/luna-nlp/main/assets/textbook.png" alt="Do it! BERT와 GPT로 배우는 자연어 처리" width="120"/>
 </a>
 </td>
 <td>
@@ -276,7 +276,7 @@ WordPiece(BERT)의 `vocab.txt`는 한국어를 그대로 저장하므로 이 현
 <div align="center">
 
 **동덕여자대학교 데이터사이언스전공 LUNA Lab**  
-© 2025 Wonsang Yoo · <a href="https://sites.google.com/view/luna-ailab/home" target="_blank">sites.google.com/view/luna-ailab/home</a>
+© 2025 Wonsang You · <a href="https://sites.google.com/view/luna-ailab/home" target="_blank">sites.google.com/view/luna-ailab/home</a>
 
 ⭐ 이 저장소가 도움이 되었다면 Star를 눌러주세요!
 
